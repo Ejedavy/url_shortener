@@ -14,6 +14,6 @@ func MapHandler(pathToURL map[string]string, fallbackHandler http.Handler) http.
 	}
 }
 
-// func YAMLHandler() {
+func YAMLHandler() {
 
-// }
+}
